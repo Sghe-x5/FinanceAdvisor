@@ -14,7 +14,7 @@ public class User {
 
     private String username;
     private String email;
-    private int freeQuestions = 5; // по умолчанию даем 5 бесплатных вопросов
+    private int freeQuestions = 5;
 
     public User() {}
 
