@@ -27,7 +27,7 @@ public class ChatController {
         private String username;
         private String question;
 
-        // Геттеры и сеттеры
+        // Getters and Setters
         public String getUsername() {
             return username;
         }
